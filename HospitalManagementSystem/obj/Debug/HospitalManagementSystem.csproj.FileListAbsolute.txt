@@ -1,0 +1,12 @@
+c:\users\pono\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\HospitalManagementSystem.dll.config
+c:\users\pono\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\HospitalManagementSystem.dll
+c:\users\pono\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\HospitalManagementSystem.pdb
+c:\users\pono\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\pono\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.dll
+c:\users\pono\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\ksereetsi\Documents\Visual Studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\HospitalManagementSystem.dll
+C:\Users\ksereetsi\Documents\Visual Studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\HospitalManagementSystem.pdb
+C:\Users\ksereetsi\Documents\Visual Studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\AjaxControlToolkit.dll
+C:\Users\ksereetsi\Documents\Visual Studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.dll
+C:\Users\ksereetsi\Documents\Visual Studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\ksereetsi\Documents\Visual Studio 2012\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
